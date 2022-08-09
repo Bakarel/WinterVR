@@ -51,6 +51,8 @@ Planed features.
 
 21- TBA
 
+22- Foliated rendering
+
 More to come soon.
 
 Age requirement: 17+
