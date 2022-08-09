@@ -25,6 +25,7 @@ Planed features.
 7- 3D sound with Fmod.
 
 8- Supporting all popular vr headsets via sdks.
+
 9- A good, Intuitive VR-centric GUI. 
 
 10- Android and IOS* support as well as windows mac and linux support. 
@@ -49,9 +50,7 @@ Planed features.
 
 20- Stand alone client. (Important.)
 
-21- TBA
-
-22- Foliated rendering
+21- Foliated rendering
 
 More to come soon.
 
